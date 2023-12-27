@@ -1,0 +1,54 @@
+/**
+ * @name NEWNEWNEW ucoyu
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Julee:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/1a2xCwk.jpg');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/R43h7y3.png');
+  --popout-image-blur: 1px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/ntVdS71.png');
+  --overlay-image-blur: 0px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/n1SIcG0.png');
+  --home-button-size: 100%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.22;
+  --left-brightness: 0.26;
+  --middle-brightness: 0.3;
+  --right-brightness: 0.24;
+  --overlay-brightness: 0.7;
+  --gradient-primary: 66,0,0;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #640000;
+  --scrollbar-colour: rgb(82,21,21,0.77);
+  --gradient-direction: 320deg;
+  --tint-colour: 138,41,41;
+  --tint-brightness: 0.02;
+  --font: Julee;
+  --window-padding: 2px;
+  --window-roundness: 7px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
